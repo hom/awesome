@@ -15,9 +15,18 @@ Awesome development tools and UI
 
 ### React
 
-| name       | status | active |
-| ---------- | ------ | ------ |
-| ant design |        |        |
-| taro       |        |        |
-| fluentui   |        |        |
+| name                                                      | status | active |
+| --------------------------------------------------------- | ------ | ------ |
+| ant design                                                |        |        |
+| taro                                                      |        |        |
+| fluentui                                                  |        |        |
+| [react-spectrum](https://github.com/adobe/react-spectrum) |        |        |
+
+## Icon
+
+| names                               | status | active |
+| ----------------------------------- | ------ | ------ |
+| [UIcons](https://systemuicons.com/) |        |        |
+|                                     |        |        |
+|                                     |        |        |
 

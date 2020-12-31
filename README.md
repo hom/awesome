@@ -1,7 +1,7 @@
 # awesome
 Awesome development tools and UI
 
-## UI
+## UI Framework
 
 ### Vue
 
@@ -24,17 +24,25 @@ Awesome development tools and UI
 
 ## Icon
 
-| names                               | status | active |
-| ----------------------------------- | ------ | ------ |
-| [UIcons](https://systemuicons.com/) |        |        |
-|                                     |        |        |
-|                                     |        |        |
+| name                               | status | active |
+| ---------------------------------- | ------ | ------ |
+| [uions](https://systemuicons.com/) |        |        |
+|                                    |        |        |
+|                                    |        |        |
 
 ## Design
 
-| names | status | active |
-| ----- | ------ | ------ |
-| Fast  |        |        |
-|       |        |        |
-|       |        |        |
+| name | status | active |
+| ---- | ------ | ------ |
+| Fast |        |        |
+|      |        |        |
+|      |        |        |
+
+## Broswer editor
+
+| name     |      |      |
+| -------- | ---- | ---- |
+| codepen  |      |      |
+| jsfiddle |      |      |
+| jsrun    |      |      |
 

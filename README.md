@@ -5,44 +5,30 @@ Awesome development tools and UI
 
 ### Vue
 
-| name       | status | active |
-| ---------- | ------ | ------ |
-| element-ui |        |        |
-| quasar     |        |        |
-| vuetify    |        |        |
-| ant design |        |        |
-| vant       |        |        |
+- element-ui
+- quasar
+- vuetify
+- ant design vue
+- vant
 
 ### React
 
-| name                                                      | status | active |
-| --------------------------------------------------------- | ------ | ------ |
-| ant design                                                |        |        |
-| taro                                                      |        |        |
-| fluentui                                                  |        |        |
-| [react-spectrum](https://github.com/adobe/react-spectrum) |        |        |
+- ant design
+- taro
+- fluentui
+- react-spectrum
 
 ## Icon
 
-| name                               | status | active |
-| ---------------------------------- | ------ | ------ |
-| [uions](https://systemuicons.com/) |        |        |
-|                                    |        |        |
-|                                    |        |        |
+- uions
 
 ## Design
 
-| name | status | active |
-| ---- | ------ | ------ |
-| Fast |        |        |
-|      |        |        |
-|      |        |        |
+- fast
 
 ## Broswer editor
 
-| name     |      |      |
-| -------- | ---- | ---- |
-| codepen  |      |      |
-| jsfiddle |      |      |
-| jsrun    |      |      |
+- codepen
+- jsfiddle
+- jsrun
 

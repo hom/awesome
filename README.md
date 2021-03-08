@@ -53,6 +53,7 @@ Awesome development tools and UI
 - Nest.js
 - Fastify
 - Farrow
+- Loopback
 
 ### API Gateway
 

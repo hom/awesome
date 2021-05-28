@@ -10,6 +10,8 @@ Awesome development tools and UI
 - vuetify
 - ant design vue
 - vant
+- [veui](https://veui.dev/ "veui")
+  > VEUI 是一套基于 Vue.js 的企业级应用组件库。
 
 ### React
 
